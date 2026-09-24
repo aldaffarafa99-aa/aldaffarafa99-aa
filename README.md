@@ -72,7 +72,7 @@
 <img src="https://raw.githubusercontent.com/aldaffarafa99-aa/aldaffarafa99-aa/output/github-contribution-grid-snake.svg"/>
 </div>
 
-> ⚙️ *Snake ini butuh setup GitHub Actions sekali di repo — bilang aja kalau mau dibantu setting.*
+
 
 ---
 
