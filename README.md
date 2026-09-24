@@ -21,10 +21,17 @@
 - 🌱 Learning **JavaScript**, **CSS animations**, and modern **frontend tools**
 - 👯 Open to collaborate on interesting projects
 - 💬 Ask me about **HTML / CSS / JavaScript**
-- 📫 How to reach me: **aldaffarafa99@email.com**
+- 📫 How to reach me: **dylandaffarafa@gmail.com**
 - ⚡ Fun fact: I enjoy building things at midnight 🌙
 
 <br clear="both"/>
+<div align="center">
+
+### 💭 Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+
+</div>
+
 
 ---
 
